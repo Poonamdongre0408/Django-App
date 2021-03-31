@@ -8,7 +8,7 @@ Built with :-
 
 Python 3.9.2 Django 3.0 Django Rest Framework
 
-GitHub Location :- https://github.com/Poonamdongre0408/ShortURL.git
+GitHub Location :- https://github.com/Poonamdongre0408/Django-App
 
 Open Command Prompt, To start the project, you need to run following commands.
 
