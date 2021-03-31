@@ -12,7 +12,11 @@ GitHub Location :- https://github.com/Poonamdongre0408/Django-App
 
 Open Command Prompt, To start the project, you need to run following commands.
 
-python --version dir pip install pipenv  (To create an environment) pipenv shell (To initiate an environment) pipenv install django  pip install djangorestframework
+python --version 
+dir 
+pip install pipenv  (To create an environment) 
+pipenv shell (To initiate an environment) 
+pipenv install django  pip install djangorestframework
 
 (After giving this command, we sometimes get out of the environment hence check for it. If yes then again write command pipenv shell)
 
